@@ -1,0 +1,6 @@
+c:\users\bryan\documents\visual studio 2015\Projects\AlgoritmiekWk2\AlgoritmiekWk2\bin\Debug\AlgoritmiekWk2.exe.config
+c:\users\bryan\documents\visual studio 2015\Projects\AlgoritmiekWk2\AlgoritmiekWk2\obj\Debug\AlgoritmiekWk2.csprojResolveAssemblyReference.cache
+c:\users\bryan\documents\visual studio 2015\Projects\AlgoritmiekWk2\AlgoritmiekWk2\bin\Debug\AlgoritmiekWk2.exe
+c:\users\bryan\documents\visual studio 2015\Projects\AlgoritmiekWk2\AlgoritmiekWk2\bin\Debug\AlgoritmiekWk2.pdb
+c:\users\bryan\documents\visual studio 2015\Projects\AlgoritmiekWk2\AlgoritmiekWk2\obj\Debug\AlgoritmiekWk2.exe
+c:\users\bryan\documents\visual studio 2015\Projects\AlgoritmiekWk2\AlgoritmiekWk2\obj\Debug\AlgoritmiekWk2.pdb

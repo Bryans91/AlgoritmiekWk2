@@ -1,0 +1,11 @@
+﻿
+						Quicksort		Quicksort3	Mergesort	Bubblesort
+						gesorteerd		geshuffled	gesorteerd	geshuffled	gesorteerd	geshuffled	gesorteerd	geshuffled
+Aantal vergelijkingen								
+Aantal swaps								
+Uitvoertijd		
+
+
+
+
+Verschil Quicksort / Quicksort 3: Quicksort 3 is betrouwbaarder en heeft een kleinere kans om de verkeerde pivot te paken.
